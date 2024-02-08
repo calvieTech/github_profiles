@@ -1,0 +1,7 @@
+.home__container {
+  max-height: 768px;
+  max-width: 768px;
+  background-color: lightslategrey;
+  padding: 14px;
+  margin: 24px auto;
+}
